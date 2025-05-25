@@ -1,5 +1,8 @@
  Sales Analysis
- Overview
+ Overview![3(1)](https://github.com/user-attachments/assets/f45da5e5-6b9f-4989-b9f6-fe6d4332e911)![2(1)](https://github.com/user-attachments/assets/b6a8f0b6-55df-4f45-9482-8197b2aeb6d6)
+![5(1)](https://github.com/user-attachments/assets/322b7934-f182-403d-b536-b44a3a9d94f2)
+
+
 This project focuses on analyzing sales data to uncover key performance trends, identify high-performing products, and understand revenue drivers. The goal is to provide actionable insights that can help optimize sales strategies and improve forecasting accuracy.
 
  Objectives
